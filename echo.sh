@@ -1,2 +1,2 @@
 #!/bin/bash
-https://github.com/uAliFurkanY/pa-ffmpeg-scripts
+ffplay -f pulse -i Virt.monitor -v 0
