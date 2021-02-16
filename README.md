@@ -8,9 +8,14 @@ A directory of useful pulseaudio and ffmpeg scripts.
 
 Most important one, creates a virtual sink for you to fiddle with.
 
+#### echo.sh
+
+Runs ffplay with the correct arguments to hear the sink.
+
 #### speak.sh
 
-Basic espeak wrapper, with my favorite config included. Also spanws ffplay (a bit laggy) to echo back audio.
+~~Basic espeak wrapper, with my favorite config included. Also spanws ffplay (a bit laggy) to echo back audio.~~
+Basic espeak wrapper.
 
 #### speak.py
 
