@@ -1,2 +1,2 @@
 #!/bin/bash
-ffplay -f pulse -i Virt.monitor -v 0
+ffplay -nodisp -f pulse -i Virt.monitor -v 0
