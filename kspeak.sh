@@ -1,2 +1,2 @@
 #!/bin/bash
-kill $(cat pids)
+kill $(pidof netcat)

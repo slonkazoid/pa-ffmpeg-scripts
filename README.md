@@ -6,11 +6,12 @@ A directory of useful pulseaudio and ffmpeg scripts.
 
 #### sink.sh
 
-Most important one, creates a virtual sink for you to fiddle with.
+Most important one, creates a virtual sink (and loopback) for you to fiddle with.
 
 #### echo.sh
 
-Runs ffplay with the correct arguments to hear the sink.
+~~Runs ffplay with the correct arguments to hear the sink.~~  
+No longer required as module-loopback is implemented.
 
 #### speak.sh
 
